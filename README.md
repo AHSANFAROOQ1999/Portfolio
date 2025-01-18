@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website<br/>
-  <a href="https://portfolio-31n6ho29h-zahidnoor7.vercel.app/" target="_blank">Muhammad Zahid Noor</a>
+  <a href="https://portfolio-31n6ho29h-zahidnoor7.vercel.app/" target="_blank">Ahsan Farooq</a>
 </h2>
 <div align="center">
   <img alt="Cover" src="./Images/cover-img.png" />
